@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FreeFire Boost</string>
+    <string name="main_title">FreeFire Boost - Graphics Optimizer</string>
+    <string name="preset_low">Low Performance</string>
+    <string name="preset_medium">Medium Balance</string>
+    <string name="preset_high">High Quality</string>
+    <string name="preset_ultra">Ultra Performance</string>
+    <string name="device_oppo_a18">Oppo A18 Preset</string>
+    <string name="brightness">Brightness</string>
+    <string name="contrast">Contrast</string>
+    <string name="saturation">Saturation</string>
+    <string name="sharpness">Sharpness</string>
+    <string name="apply">Apply Settings</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="load_profile">Load Profile</string>
+    <string name="reset">Reset to Default</string>
+</resources>

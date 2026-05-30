@@ -1,0 +1,35 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.ap_
+
+# Local configuration file
+local.properties
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Android Studio captures folder
+captures/
+
+# Kotlin
+.kotlin/
+
+# Crashlytics configurations
+com_crashlytics_export_strings.xml
+
+# Signing files
+*.keystore
+*.jks
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Version control
+.git/
