@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Graphics Settings">
+        <SeekBarPreference
+            android:key="brightness_preference"
+            android:title="Brightness"
+            android:max="100"
+            android:defaultValue="50" />
+        
+        <SeekBarPreference
+            android:key="contrast_preference"
+            android:title="Contrast"
+            android:max="100"
+            android:defaultValue="50" />
+    </PreferenceCategory>
+</PreferenceScreen>
